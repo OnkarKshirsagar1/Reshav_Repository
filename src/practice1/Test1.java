@@ -13,7 +13,7 @@ public class Test1 {
 		System.out.println("Push to Origin");
 		
 		System.out.println("Continue kara sir pudhcha kaam mazh kaam zhalay aajacha");
-		System.out.println("hi");
+		System.out.println("hi sir");
 
 	}
 
